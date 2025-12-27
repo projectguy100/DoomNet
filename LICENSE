@@ -2,13 +2,30 @@
                (C) Copyright DNE LICENSE 2024-2025
                (C) Copyright DoomNet Engine 2024-2025
 
-THIS IS A CUSTOM LICENSE AND IS ONLY APPLIED FOR DOOMNET ENGINE
+THIS IS A CUSTOM LICENCE AND IS ONLY APPLIED TO DOOMNET ENGINE AND REDISTRIBUTIONS, WITH OR WITHOUT MODIFICATIONS. 
 
-THINGS YOU CANNOT DO:
-YOU CANNOT DISTRIBUTE FOR COMMERCIAL USE, TRADEMARK IT YOURSELF, CLAIM YOU OWN IT
+The key words "MUST", "MUST NOT", "MAY", "SHALL" in this document are to be interpreted as described in RFC 2119.
 
-THINGS YOU CAN DO:
-DOWNLOAD IT, CONTRIBUTE TO IT AND IMPROVE IT
-STAR IT
-PROVIDE US WITH BUGS NOTICES
-PULL REQUESTS
+Definitions:
+    "You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+    "Licence" shall mean the terms and conditions for use, reproduction, and distribution as defined in this document.
+    "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting this Licence.
+    "Software" (or "DoomNet Engine" and related terms) shall mean the work that is being distributed under this Licence.
+    "Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner.
+
+
+Terms and conditions for reproduction, distribution and use.
+
+1. Redistrubtion. You MAY reproduce and distribute copies of the Software, with or without modifications, provided that you meet the following conditions:
+    a. You MUST give any other recipients of the Software, with or without modifications, a copy of the Licence; and
+    b. If any modifications are made, they MUST cary prominent notices stating the You made changes; and
+    c. You MUST retain all terms and conditions stated in the Licence; and
+    d. The distributed software MUST NOT be used for commercial purposes of any kind, unless explicitly given permission by the Licensor. 
+
+2. Ownership. You MUST NOT claim any sort of ownership or creation of the Software, and the Software SHALL remain perputaully under the ownership of the current Licensor, unless the Licensor specifically grants another legal entity the copyright and ownership.
+
+3. Trademarks and copyright. You MUST NOT trademark or copyright the Software. The Licence does not grant any permission to use the trade names, trademarks, service marks, or product names of the Licensor.
+
+4. Contributions. By contributing to the Software or any redistributed form of the Software, with or without modifications, and submitting Your contribution to the Licensor, You give up all legal ownership, copyright or trademark to the Licensor, unless explicitly given notice by the Licensor.
+
+5. Disclaimer of warranty. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
